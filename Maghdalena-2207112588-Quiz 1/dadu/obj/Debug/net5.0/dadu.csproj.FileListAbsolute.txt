@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\dadu\bin\Debug\net5.0\dadu.exe
+C:\Users\Lenovo\Desktop\dadu\bin\Debug\net5.0\dadu.deps.json
+C:\Users\Lenovo\Desktop\dadu\bin\Debug\net5.0\dadu.runtimeconfig.json
+C:\Users\Lenovo\Desktop\dadu\bin\Debug\net5.0\dadu.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\dadu\bin\Debug\net5.0\dadu.dll
+C:\Users\Lenovo\Desktop\dadu\bin\Debug\net5.0\ref\dadu.dll
+C:\Users\Lenovo\Desktop\dadu\bin\Debug\net5.0\dadu.pdb
+C:\Users\Lenovo\Desktop\dadu\obj\Debug\net5.0\dadu.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\dadu\obj\Debug\net5.0\dadu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\dadu\obj\Debug\net5.0\dadu.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\dadu\obj\Debug\net5.0\dadu.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\dadu\obj\Debug\net5.0\dadu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\dadu\obj\Debug\net5.0\dadu.dll
+C:\Users\Lenovo\Desktop\dadu\obj\Debug\net5.0\ref\dadu.dll
+C:\Users\Lenovo\Desktop\dadu\obj\Debug\net5.0\dadu.pdb
+C:\Users\Lenovo\Desktop\dadu\obj\Debug\net5.0\dadu.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Mr. Jamal\Desktop\soal no 4\bin\Debug\net5.0\soal no 4.exe
+C:\Users\Mr. Jamal\Desktop\soal no 4\bin\Debug\net5.0\soal no 4.deps.json
+C:\Users\Mr. Jamal\Desktop\soal no 4\bin\Debug\net5.0\soal no 4.runtimeconfig.json
+C:\Users\Mr. Jamal\Desktop\soal no 4\bin\Debug\net5.0\soal no 4.runtimeconfig.dev.json
+C:\Users\Mr. Jamal\Desktop\soal no 4\bin\Debug\net5.0\soal no 4.dll
+C:\Users\Mr. Jamal\Desktop\soal no 4\bin\Debug\net5.0\ref\soal no 4.dll
+C:\Users\Mr. Jamal\Desktop\soal no 4\bin\Debug\net5.0\soal no 4.pdb
+C:\Users\Mr. Jamal\Desktop\soal no 4\obj\Debug\net5.0\soal no 4.csproj.AssemblyReference.cache
+C:\Users\Mr. Jamal\Desktop\soal no 4\obj\Debug\net5.0\soal no 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. Jamal\Desktop\soal no 4\obj\Debug\net5.0\soal no 4.AssemblyInfoInputs.cache
+C:\Users\Mr. Jamal\Desktop\soal no 4\obj\Debug\net5.0\soal no 4.AssemblyInfo.cs
+C:\Users\Mr. Jamal\Desktop\soal no 4\obj\Debug\net5.0\soal no 4.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Jamal\Desktop\soal no 4\obj\Debug\net5.0\soal no 4.dll
+C:\Users\Mr. Jamal\Desktop\soal no 4\obj\Debug\net5.0\ref\soal no 4.dll
+C:\Users\Mr. Jamal\Desktop\soal no 4\obj\Debug\net5.0\soal no 4.pdb
+C:\Users\Mr. Jamal\Desktop\soal no 4\obj\Debug\net5.0\soal no 4.genruntimeconfig.cache

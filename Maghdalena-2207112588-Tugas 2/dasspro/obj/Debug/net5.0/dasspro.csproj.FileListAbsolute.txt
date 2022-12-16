@@ -1,0 +1,16 @@
+C:\Users\Mr. Jamal\Desktop\dasspro\obj\Debug\net5.0\dasspro.csproj.AssemblyReference.cache
+C:\Users\Mr. Jamal\Desktop\dasspro\obj\Debug\net5.0\dasspro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. Jamal\Desktop\dasspro\obj\Debug\net5.0\dasspro.AssemblyInfoInputs.cache
+C:\Users\Mr. Jamal\Desktop\dasspro\obj\Debug\net5.0\dasspro.AssemblyInfo.cs
+C:\Users\Mr. Jamal\Desktop\dasspro\obj\Debug\net5.0\dasspro.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Jamal\Desktop\dasspro\bin\Debug\net5.0\dasspro.exe
+C:\Users\Mr. Jamal\Desktop\dasspro\bin\Debug\net5.0\dasspro.deps.json
+C:\Users\Mr. Jamal\Desktop\dasspro\bin\Debug\net5.0\dasspro.runtimeconfig.json
+C:\Users\Mr. Jamal\Desktop\dasspro\bin\Debug\net5.0\dasspro.runtimeconfig.dev.json
+C:\Users\Mr. Jamal\Desktop\dasspro\bin\Debug\net5.0\dasspro.dll
+C:\Users\Mr. Jamal\Desktop\dasspro\bin\Debug\net5.0\ref\dasspro.dll
+C:\Users\Mr. Jamal\Desktop\dasspro\bin\Debug\net5.0\dasspro.pdb
+C:\Users\Mr. Jamal\Desktop\dasspro\obj\Debug\net5.0\dasspro.dll
+C:\Users\Mr. Jamal\Desktop\dasspro\obj\Debug\net5.0\ref\dasspro.dll
+C:\Users\Mr. Jamal\Desktop\dasspro\obj\Debug\net5.0\dasspro.pdb
+C:\Users\Mr. Jamal\Desktop\dasspro\obj\Debug\net5.0\dasspro.genruntimeconfig.cache
